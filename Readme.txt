@@ -2,6 +2,7 @@ The project has implemented the ability to select roduct in the basket.
 The possibility of ordering. Profiles of the manager, cook, courier, 
 user are made. The order goes through all stages from cooking to delivery. 
 At the same time, it is displayed in the corresponding profile.
+All data is stored on firebase.
 
 A working project is launched here
 
@@ -44,3 +45,5 @@ npm install @types/react-redux
 
 6. firebase
 npm i firebase rxfire
+
+7. add to firebase-config.ts data for firebase. 
